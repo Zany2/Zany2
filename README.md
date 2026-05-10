@@ -1,10 +1,7 @@
 ### Hi, I'm Zany
 
-> An art school dropout who fell in love with semicolons.
-
 - **The Stack:** Backend is home, Frontend is a playground, AI is the new toy.
 - **The Vibe:** I don't just write code; I compose digital chaos.
-- **The Reality:** Probably debugging right now.
 
 <br>
 
@@ -17,4 +14,4 @@
 ###  Hit Me Up
 
 - **WeChat:** `15753214356`
-- **Email:** `568562991@qq.com`
+- **Email:** `[Your Email Address]
