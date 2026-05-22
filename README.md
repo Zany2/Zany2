@@ -13,4 +13,4 @@ I treat code like art — sometimes abstract, but it usually works.
 ### Hit Me Up
 
 - **WeChat:** `15753214356`
-- **Email:** `568562991@qq.com`
+- **Email:** `daixkzany@gmail.com`
