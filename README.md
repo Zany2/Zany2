@@ -12,6 +12,6 @@ I treat code like art — sometimes abstract, but it usually works.
 
 ### Hit Me Up
 
-- **WeChat:** `15753214356`
+- **WeChat/Phone:** `15753214356`
 - **Email:** `daixk99@gmail.com`
 - **Website:** [daixiaokang.com](https://daixiaokang.com)
